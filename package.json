@@ -1,6 +1,6 @@
 {
   "name": "quick-sqs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "aws-sdk": "~2.0.0-rc.19"
   },
