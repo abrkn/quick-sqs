@@ -1,0 +1,35 @@
+{
+  "name": "quick-sqs",
+  "version": "1.0.1",
+  "dependencies": {
+    "aws-sdk": "~2.0.0-rc.19"
+  },
+  "description": "Simple access to Amazon SQS for node",
+  "keywords": [
+    "amazon",
+    "aws",
+    "sqs",
+    "node"
+  ],
+  "homepage": "https://github.com/abrkn/quick-sqs",
+  "author": "Andreas Brekken <a@abrkn.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abrkn/quick-sqs"
+  },
+  "bugs": {
+    "url": "http://github.com/abrkn/quick-sqs/issues"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "mocha": "~1.20.1",
+    "mck": "^1.0.0"
+  }
+}
